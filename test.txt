@@ -1,1 +1,7 @@
 This is my first GIT text file
+
+This is my first GIT text file
+This is my first GIT text file
+This is my first GIT text file
+This is my first GIT text file
+
